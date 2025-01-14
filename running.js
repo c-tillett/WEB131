@@ -4,3 +4,4 @@ const oranges = 3;
 
 let total = apples + oranges;
 console.log("total:", total);
+const banana = 100000;
